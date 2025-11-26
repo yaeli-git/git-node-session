@@ -1,0 +1,21 @@
+.elementor-kit-3882{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-6ab24fbc:#F6B8AD;--e-global-color-4f09fc62:#FFE0A0;--e-global-color-5899038f:#A0D7D1;--e-global-color-11c1a2ef:#4054B2;--e-global-color-4a789329:#EAEAEA;--e-global-color-359bf91e:#000;--e-global-color-4e30fb42:#FFF;--e-global-typography-primary-font-family:"almoni-tzar-regular";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"almoni-tzar-regular";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"almoni-tzar-regular";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"almoni-tzar-regular";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-container{--container-max-width:1200px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'almoni-tzar-regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-regular-aaa.eot');
+	src: url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-regular-aaa.eot?#iefix') format('embedded-opentype'),
+		url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-regular-aaa.woff2') format('woff2'),
+		url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-regular-aaa.woff') format('woff');
+}
+@font-face {
+	font-family: 'almoni-tzar-regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-light-aaa.eot');
+	src: url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-light-aaa.eot?#iefix') format('embedded-opentype'),
+		url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-light-aaa.woff2') format('woff2'),
+		url('https://yamexpress.co.il/wp-content/uploads/2019/02/almoni-tzar-light-aaa.woff') format('woff');
+}
+/* End Custom Fonts CSS */
